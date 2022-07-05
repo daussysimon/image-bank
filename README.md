@@ -14,9 +14,9 @@ Donner la possibilité aux utilisateurs de sélectionner des photos favorites
 
 ### Installation (nécesite NodeJs https://nodejs.org/fr/ )
 
-git clone git@github.com:daussysimon/image-bank.git
-npm install
-npm start
+- git clone git@github.com:daussysimon/image-bank.git
+- npm install
+- npm start
 
 
 Enjoy :)
